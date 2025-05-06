@@ -9,7 +9,7 @@ st.set_page_config(page_title="Amperon 1000 Dashboard", layout="wide")
 st.markdown(
     """
     <div style='text-align: center;'>
-        <img src='https://github.com/ccwimmer29/streamlit-sales-dashboard/blob/main/avatar.png' width='200'/>
+        <img src='https://github.com/ccwimmer29/streamlit-sales-dashboard/blob/main/avatar.png?raw=true' width='200'/>
         <h1 style='color: #054A91; font-size: 3em; margin-bottom: 0;'>⚡️ Welcome to the Amperon 1000 ⚡️</h1>
         <p style='color: #3E7CB1; font-size: 1.2em;'>Smart Sales Prioritization for the Energy Future</p>
         <hr style="border: 1px solid #7DC1F1; width: 80%; margin: auto;" />
